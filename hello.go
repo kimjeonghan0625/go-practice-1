@@ -1,7 +1,7 @@
-package main
+package short
 
 import "fmt"
 
-func main() {
-	fmt.Println("hello go practice 1")
+func pl(any interface{}) {
+	fmt.Println(any)
 }
