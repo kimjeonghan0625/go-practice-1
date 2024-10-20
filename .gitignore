@@ -1,0 +1,7 @@
+# Go 관련 파일
+/bin/
+/pkg/
+/vendor/
+
+# Editor 설정 파일
+.vscode/
