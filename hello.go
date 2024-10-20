@@ -2,6 +2,6 @@ package short
 
 import "fmt"
 
-func pl(any interface{}) {
+func Pl(any interface{}) {
 	fmt.Println(any)
 }
